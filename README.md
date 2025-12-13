@@ -191,4 +191,67 @@ Use **nested switch** logic:
 
 ---
 
-Best of luck.
+
+
+Internship Evaluation – Practical Exam
+GitHub Submission Instructions (Read Carefully)
+## Step 1: Create Your Repository
+Open the following link:
+https://github.com/Internship-Eval-2025-2026/Internship-Eval-2025/generate
+Click Create a new repository
+Repository name format:
+EnrollmentNo_FullName
+(Example: 21CE045_RahulPatel)
+Owner must be your own GitHub account
+Set repository visibility to Private
+Click Create repository
+
+## Step 2: Write Your Solution
+Open your newly created repository
+Go to the src folder
+Write your solution code ONLY inside the src folder
+Use any ONE language only:
+C
+C++
+Java
+Python
+
+## Step 3: Mandatory Comment Block
+At the top of your code file, add the following comment:
+Name:
+Enrollment No:
+Language Used:
+Logic:
+
+(Logic must briefly explain your approach)
+
+## Step 4: Final Submission Rules
+Push (commit) your final working code before time ends
+Do NOT push code after time is over
+Do NOT change repository name after creation
+Do NOT copy code from others (plagiarism = disqualification)
+
+## Step 5: Submit Repository Link
+Submit your repository link as instructed by the examiner
+Example format:
+https://github.com/your-username/EnrollmentNo_Name
+
+
+## Important Notes
+
+Only code inside the src folder will be evaluated
+Multiple languages in one repository are NOT allowed
+Late commits will not be considered
+Evaluation will be based on:
+Correctness
+Logic
+Code quality
+Folder structure
+
+One-Line Reminder for Students
+Create your own repository using the template → write code inside src → commit before time ends → submit repo link.
+
+
+
+
+**Best of luck.**
